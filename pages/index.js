@@ -33,7 +33,7 @@ export const getStaticProps = async () => {
   };
 };
 
-// export const getServerSideProps = (context) => {
+// export const getServerSideProps = async (context) => {
 //   const req = context.req;
 //   const res = context.res;
 //   //fetch data from an api
